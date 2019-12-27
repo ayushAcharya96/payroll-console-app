@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2019
+Name of Staff : John
+Hours Worked : 200
+
+Basic Pay : $6,000.00
+Overtime : $620.00
+
+=======================================
+Total Pay : $6,620.00
+=======================================
+

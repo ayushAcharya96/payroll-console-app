@@ -1,0 +1,6 @@
+C:\Users\ayush\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\ayush\source\repos\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\ayush\source\repos\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\ayush\source\repos\CSProject\CSProject\obj\Debug\CSProject.csprojAssemblyReference.cache
+C:\Users\ayush\source\repos\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\ayush\source\repos\CSProject\CSProject\obj\Debug\CSProject.pdb
